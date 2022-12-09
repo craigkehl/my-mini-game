@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28aa7986-1fdc-475b-b22c-f774f2dc2242"
+      }
+    },
+    "owner": "ckehl"
   }
 }
